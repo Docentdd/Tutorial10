@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1.API", "src\ConsoleApp1.API\ConsoleApp1.API.csproj", "{44E873C2-EEFD-4A44-857C-47D4D5E44532}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial10.API", "src\Tutorial10.API\Tutorial10.API.csproj", "{44E873C2-EEFD-4A44-857C-47D4D5E44532}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

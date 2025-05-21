@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/Tutorial10/src/ConsoleApp1.API/ConsoleApp1.API.csproj",
-      "projectName": "ConsoleApp1.API",
-      "projectPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/Tutorial10/src/ConsoleApp1.API/ConsoleApp1.API.csproj",
+      "projectUniqueName": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/Tutorial10/src/Tutorial10.API/Tutorial10.API.csproj",
+      "projectName": "Tutorial10.API",
+      "projectPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/Tutorial10/src/Tutorial10.API/Tutorial10.API.csproj",
       "packagesPath": "/Users/dmytronakonechnyi/.nuget/packages/",
-      "outputPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/Tutorial10/src/ConsoleApp1.API/obj/",
+      "outputPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/Tutorial10/src/Tutorial10.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dmytronakonechnyi/.nuget/NuGet/NuGet.Config"
